@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>F0 Pro Update</title>
+        <item>
+            <title>Version 1.4.4</title>
+            <description>Sửa bugs</description>
+            <pubDate>12/06/2021</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="1.4.4" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
