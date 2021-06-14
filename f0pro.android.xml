@@ -3,10 +3,10 @@
     <channel>
         <title>F0 Pro Update</title>
         <item>
-            <title>Version 1.5.0</title>
+            <title>Version 1.5.1</title>
             <description>Sửa lỗi và cải thiện hiệu suất</description>
-            <pubDate>13/06/2021</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="1.5.0" sparkle:os="android" />
+            <pubDate>14/06/2021</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="1.5.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
