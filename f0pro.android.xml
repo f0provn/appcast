@@ -3,10 +3,10 @@
     <channel>
         <title>F0 Pro Update</title>
         <item>
-            <title>Version 1.5.1</title>
-            <description>Sửa lỗi và cải thiện hiệu suất</description>
-            <pubDate>14/06/2021</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="1.5.1" sparkle:os="android" />
+            <title>Version 1.6.2</title>
+            <description>Thêm lịch sự kiện và cổ tức. Cải thiện hiệu suất ứng dụng</description>
+            <pubDate>27/06/2021</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="1.6.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
