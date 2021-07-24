@@ -1,6 +1,7 @@
 {
   "server_ip" : "35.240.222.133",
   "server_name" : "",
+  "server_down": false,
   "py_pass_certificate_error" : true,
   "disable_ad": false
 }
