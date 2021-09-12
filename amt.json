@@ -5,6 +5,5 @@
   "server_down_msg": "Hệ thống đang được bảo trì, vui lòng truy cập sau 1 giờ nữa. Xin cảm ơn!",
   "py_pass_certificate_error" : true,
   "disable_ad": false,
-  "ad_num_per_day" : 3,
-  "news_uri": ":8882/cpp/news"
+  "ad_num_per_day" : 3
 }
