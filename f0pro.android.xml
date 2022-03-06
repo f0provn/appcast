@@ -3,10 +3,10 @@
     <channel>
         <title>F0 Pro Update</title>
         <item>
-            <title>Version 2.3.0</title>
-            <description>Thay đổi phí giao dịch theo Cty Chứng khoán; Thêm các mục tin tức mới (Câu chuyện đầu tư, Kiến thức chứng khoán, ...)</description>
-            <pubDate>06/08/2021</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="2.3.0" sparkle:os="android" />
+            <title>Version 2.6.0</title>
+            <description>Sửa lỗi</description>
+            <pubDate>06/03/2022</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="2.6.0" sparkle:os="android" />
         </item>
     </channel>
 </rss> 
