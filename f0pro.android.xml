@@ -3,7 +3,7 @@
     <channel>
         <title>F0 Pro Update</title>
         <item>
-            <title>Version 5.6.0</title>
+            <title>Version 2.6.0</title>
             <description>Sửa lỗi</description>
             <pubDate>04/11/2023</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=f0.pro.vn.mobile" sparkle:version="2.6.0" sparkle:os="android" />
